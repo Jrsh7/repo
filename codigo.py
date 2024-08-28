@@ -1,3 +1,4 @@
 nombre="raul"
 apellido="martin"
-print(f"hola {nombre} {apellido} como estas?")
+saludo=f"hola {nombre} {apellido} como estas?"
+print(saludo)
